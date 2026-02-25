@@ -26,7 +26,7 @@ Grizm Store, modern tasarımı ve gelişmiş özellikleriyle dikkat çeken, PHP 
 
 1.  Bu depoyu bilgisayarınıza klonlayın:
     ```bash
-    git clone [https://github.com/kullaniciadi/grizm-store.git](https://github.com/kullaniciadi/grizm-store.git)
+    git clone [https://github.com/kullaniciadi/grizm-store.git](https://github.com/yusufber/grizm-store.git)
     ```
 2.  `db.php` dosyasını kendi veritabanı bilgilerinizle güncelleyin.
 3.  `sql/setup.sql` dosyasındaki kodları phpMyAdmin üzerinden çalıştırarak tabloları oluşturun.
